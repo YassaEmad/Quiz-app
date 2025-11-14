@@ -28,6 +28,11 @@ body {
   background-color: var(--color-darkest);
   padding: 3.2rem;
 }
+@media (max-width: 768px) {
+  .body {
+    padding: 2.5rem;
+  }
+}
 
 .app {
   display: flex;
@@ -94,6 +99,9 @@ h4 {
   margin-bottom: 2.4rem;
 }
 @media (max-width: 768px) {
+  img {
+  width: 12rem;
+  }
   h1 {
     font-size: 3.8rem;
   }
