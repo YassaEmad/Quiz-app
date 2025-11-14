@@ -64,7 +64,9 @@ function App() {
     useReducer(reducer, inital);
 
   useEffect(function () {
-    fetch("http://localhost:9000/questions")
+    fetch(
+      "https://raw.githubusercontent.com/YassaEmad/Quiz-app/main/api/db.json"
+    )
       .then((res) => res.json())
       .then((data) => dispatch({ type: "daRe", payload: data }))
       .catch((error) => dispatch({ type: "daFa", payload: error }));
