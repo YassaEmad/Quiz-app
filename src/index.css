@@ -55,6 +55,7 @@ body {
   .app-header {
     width: 100%;
     flex-direction: column;
+    margin-bottom: 2rem;
   }
 }
 
@@ -124,6 +125,11 @@ h4 {
   font-size: 1.8rem;
   color: var(--color-medium);
 }
+@media (max-width: 768px) {
+  .progress {
+    margin-bottom: 2rem;
+  }
+}
 
 progress {
   -webkit-appearance: none;
@@ -180,6 +186,11 @@ progress {
   flex-direction: column;
   gap: 1.2rem;
   margin-bottom: 3.2rem;
+}
+@media (max-width: 768px) {
+  .option {
+    margin-bottom: 2rem;
+  }
 }
 
 .btn-option {
