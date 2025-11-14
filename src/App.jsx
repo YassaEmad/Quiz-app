@@ -68,9 +68,8 @@ function App() {
       "https://raw.githubusercontent.com/YassaEmad/Quiz-app/main/api/db.json"
     )
       .then((res) => res.json())
-      .then((data) => dispatch({ type: "daRe", payload: data }))
+      .then((data) => dispatch({ type: "daRe", payload: data.questions }))
       .catch((error) => dispatch({ type: "daFa", payload: error }));
-    console.log(data);
   }, []);
   const num = questions.length;
   const max = questions.reduce((prev, cur) => prev + cur.points, 0);
