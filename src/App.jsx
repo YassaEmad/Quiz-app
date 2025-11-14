@@ -70,6 +70,7 @@ function App() {
       .then((res) => res.json())
       .then((data) => dispatch({ type: "daRe", payload: data }))
       .catch((error) => dispatch({ type: "daFa", payload: error }));
+    console.log(data);
   }, []);
   const num = questions.length;
   const max = questions.reduce((prev, cur) => prev + cur.points, 0);
