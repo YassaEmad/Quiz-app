@@ -9,7 +9,7 @@ function StartScreen({ dispatch }) {
   const dropdownRef = useRef(null);
 
   const options = [
-    { value: "db1", label: "emax1" },
+    { value: "db1", label: "exam1" },
     { value: "db2", label: "exam2" },
   ];
 
