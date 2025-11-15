@@ -3,7 +3,7 @@ function Header() {
   return (
     <header className="app-header">
       <img src={logo} alt="React logo" />
-      <h1>Mechatronics Quiz</h1>
+      <h1>Mechatronics Quizzes</h1>
     </header>
   );
 }
