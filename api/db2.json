@@ -1,496 +1,496 @@
 {
   "questions": [
     {
-      "question": "Which of the following is NOT considered acceptable in scientific publishing? [cite: 6]",
+      "question": "Which of the following is NOT considered acceptable in scientific publishing?",
       "options": [
-        "Referencing your previous studies while building a literature review [cite: 7]",
-        "Reusing text from the introduction of your previous paper without citation [cite: 8]",
-        "Citing your previous work as part of a discussion [cite: 9]",
-        "Publishing new data with proper citations to related work [cite: 10]"
+        "Referencing your previous studies while building a literature review",
+        "Reusing text from the introduction of your previous paper without citation",
+        "Citing your previous work as part of a discussion",
+        "Publishing new data with proper citations to related work"
       ],
       "correctOption": 1,
       "points": 1
     },
     {
-      "question": "Which scenario is most likely to be considered ethical in academic publishing? [cite: 11]",
+      "question": "Which scenario is most likely to be considered ethical in academic publishing?",
       "options": [
-        "Republishing the same paper in different languages [cite: 13]",
-        "Reusing one's own data set with new analysis and proper citation [cite: 14]",
-        "Publishing the same paper under different titles in separate journals [cite: 15]",
-        "Dividing one study into multiple publications without cross-referencing [cite: 16]"
+        "Republishing the same paper in different languages",
+        "Reusing one's own data set with new analysis and proper citation",
+        "Publishing the same paper under different titles in separate journals",
+        "Dividing one study into multiple publications without cross-referencing"
       ],
       "correctOption": 1,
       "points": 1
     },
     {
-      "question": "The technical writers should be able to adapt the document carefully according to their audience. [cite: 18]",
-      "options": ["True [cite: 18]", "False [cite: 17]"],
+      "question": "The technical writers should be able to adapt the document carefully according to their audience.",
+      "options": ["True", "False"],
       "correctOption": 0,
       "points": 1
     },
     {
-      "question": "Figures and tables must have their captions below them directly. [cite: 19]",
-      "options": ["True [cite: 19]", "False [cite: 20]"],
+      "question": "Figures and tables must have their captions below them directly.",
+      "options": ["True", "False"],
       "correctOption": 1,
       "points": 1
     },
     {
-      "question": "Since the online documents are free and public access, it is ethical to copy from them. [cite: 21]",
-      "options": ["True [cite: 22]", "False [cite: 22]"],
+      "question": "Since the online documents are free and public access, it is ethical to copy from them.",
+      "options": ["True", "False"],
       "correctOption": 1,
       "points": 1
     },
     {
-      "question": "Plagiarism detection software is used to compute the ratio of similarity between the document checked and the previously published documents. [cite: 23]",
-      "options": ["True [cite: 24]", "False [cite: 25]"],
+      "question": "Plagiarism detection software is used to compute the ratio of similarity between the document checked and the previously published documents.",
+      "options": ["True", "False"],
       "correctOption": 0,
       "points": 1
     },
     {
-      "question": "Technical definition must have at least one extension to clarify the meaning. [cite: 26]",
-      "options": ["True [cite: 26]", "False [cite: 27]"],
+      "question": "Technical definition must have at least one extension to clarify the meaning.",
+      "options": ["True", "False"],
       "correctOption": 1,
       "points": 1
     },
     {
-      "question": "Technical writer can neglect essential scientific facts to simplify the technical definition. [cite: 28]",
-      "options": ["True [cite: 28]", "False [cite: 28]"],
+      "question": "Technical writer can neglect essential scientific facts to simplify the technical definition.",
+      "options": ["True", "False"],
       "correctOption": 1,
       "points": 1
     },
     {
-      "question": "Dr. Smith publishes the results of a large clinical trial as separate papers: one focusing on short-term effects and another on long-term effects. However, both papers use the same data set with only slight differences in analysis. This practice is known as: [cite: 29, 30, 31]",
+      "question": "Dr. Smith publishes the results of a large clinical trial as separate papers: one focusing on short-term effects and another on long-term effects. However, both papers use the same data set with only slight differences in analysis. This practice is known as:",
       "options": [
-        "Redundant publication [cite: 32]",
-        "Segmented publication [cite: 34]",
-        "Duplicate publication [cite: 33]",
-        "Collaborative publishing [cite: 35]"
+        "Redundant publication",
+        "Segmented publication",
+        "Duplicate publication",
+        "Collaborative publishing"
       ],
       "correctOption": 0,
       "points": 1
     },
     {
-      "question": "Which consequence is most likely for an author found guilty of duplicate publication? [cite: 36]",
+      "question": "Which consequence is most likely for an author found guilty of duplicate publication?",
       "options": [
-        "Increased readership and citations [cite: 37]",
-        "Receiving a financial penalty [cite: 38]",
-        "Retraction of the paper (removing an article from the scientific record at any point after its publication) [cite: 39]",
-        "Publication of future work in top-tier journals [cite: 40]"
-      ],
-      "correctOption": 2,
-      "points": 1
-    },
-    {
-      "question": "Abstraction ladder presents the progression of technical term starting by a specific technical term and ending by a general technical term. [cite: 41]",
-      "options": ["True [cite: 42]", "False [cite: 43]"],
-      "correctOption": 1,
-      "points": 1
-    },
-    {
-      "question": "A researcher edits a scientific image to enhance contrast for better visibility of details, and this modification is disclosed in the image caption. This is considered ethical. [cite: 44, 45]",
-      "options": ["True [cite: 45]", "False [cite: 46]"],
-      "correctOption": 0,
-      "points": 1
-    },
-    {
-      "question": "Plagiarism can only occur in written text and not in visual materials such as charts, graphs, or images. [cite: 47]",
-      "options": ["True [cite: 48]", "False [cite: 48]"],
-      "correctOption": 1,
-      "points": 1
-    },
-    {
-      "question": "Altering an image to remove irrelevant background elements without affecting the primary data is always considered ethical, even if it is not disclosed [cite: 52, 54]",
-      "options": ["True [cite: 52]", "False [cite: 53]"],
-      "correctOption": 1,
-      "points": 1
-    },
-    {
-      "question": "Combining multiple images to create a composite figure is ethical if it is explicitly stated how the figure was constructed and what each part represents [cite: 55, 56]",
-      "options": ["True [cite: 56]", "False [cite: 60]"],
-      "correctOption": 0,
-      "points": 1
-    },
-    {
-      "question": "Duplicate publication can best be described as [cite: 57]",
-      "options": [
-        "Publishing the same research paper in more than one journal [cite: 58]",
-        "Publishing a paper that uses data from different sources [cite: 59]",
-        "Re-publishing a corrected version of a paper with publisher's permission [cite: 61]",
-        "Publishing a review article that summarizes multiple original studies [cite: 62]"
-      ],
-      "correctOption": 0,
-      "points": 1
-    },
-    {
-      "question": "Including a technical definition in a research paper without explaining it further is acceptable if the audience is assumed to be knowledgeable [cite: 63]",
-      "options": ["True [cite: 63]", "False [cite: 64]"],
-      "correctOption": 0,
-      "points": 1
-    },
-    {
-      "question": "If a student copies and pastes text from a website into their paper without citations but rearranges some sentences, this is not plagiarism because the text has been modified. [cite: 65]",
-      "options": ["True [cite: 66]", "False [cite: 67]"],
-      "correctOption": 1,
-      "points": 1
-    },
-    {
-      "question": "Process descriptions are similar to mechanism descriptions in organizational structure [cite: 68]",
-      "options": ["True [cite: 69]", "False [cite: 70]"],
-      "correctOption": 0,
-      "points": 1
-    },
-    {
-      "question": "Formal proposals typically include the following five volumes [cite: 71]",
-      "options": [
-        "Technical volume, Work volume, Cost volume, conclusion volume, and Contact volume [cite: 73]",
-        "Resource volume, Work volume, Management volume, cost volume, and Contact volume [cite: 72]",
-        "Executive summary, Technical volume, Management volume, Cost volume, and Fiscal volume [cite: 74]",
-        "None of them [cite: 74]"
+        "Increased readership and citations",
+        "Receiving a financial penalty",
+        "Retraction of the paper (removing an article from the scientific record at any point after its publication)",
+        "Publication of future work in top-tier journals"
       ],
       "correctOption": 2,
       "points": 1
     },
     {
-      "question": "Which of the following statements give correct information about formal proposals? [cite: 75]",
+      "question": "Abstraction ladder presents the progression of technical term starting by a specific technical term and ending by a general technical term.",
+      "options": ["True", "False"],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "A researcher edits a scientific image to enhance contrast for better visibility of details, and this modification is disclosed in the image caption. This is considered ethical.",
+      "options": ["True", "False"],
+      "correctOption": 0,
+      "points": 1
+    },
+    {
+      "question": "Plagiarism can only occur in written text and not in visual materials such as charts, graphs, or images.",
+      "options": ["True", "False"],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "Altering an image to remove irrelevant background elements without affecting the primary data is always considered ethical, even if it is not disclosed",
+      "options": ["True", "False"],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "Combining multiple images to create a composite figure is ethical if it is explicitly stated how the figure was constructed and what each part represents",
+      "options": ["True", "False"],
+      "correctOption": 0,
+      "points": 1
+    },
+    {
+      "question": "Duplicate publication can best be described as",
       "options": [
-        "Executive summaries often are written by a team of executive engineers. [cite: 76]",
-        "Cost volume is generally written by a team of experts in management theory [cite: 77]",
-        "Management volume is written by human resource (HR) experts, who are responsible for luring people with the necessary skills, [cite: 78, 79]",
-        "None of them [cite: 80]"
+        "Publishing the same research paper in more than one journal",
+        "Publishing a paper that uses data from different sources",
+        "Re-publishing a corrected version of a paper with publisher's permission",
+        "Publishing a review article that summarizes multiple original studies"
+      ],
+      "correctOption": 0,
+      "points": 1
+    },
+    {
+      "question": "Including a technical definition in a research paper without explaining it further is acceptable if the audience is assumed to be knowledgeable",
+      "options": ["True", "False"],
+      "correctOption": 0,
+      "points": 1
+    },
+    {
+      "question": "If a student copies and pastes text from a website into their paper without citations but rearranges some sentences, this is not plagiarism because the text has been modified.",
+      "options": ["True", "False"],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "Process descriptions are similar to mechanism descriptions in organizational structure",
+      "options": ["True", "False"],
+      "correctOption": 0,
+      "points": 1
+    },
+    {
+      "question": "Formal proposals typically include the following five volumes",
+      "options": [
+        "Technical volume, Work volume, Cost volume, conclusion volume, and Contact volume",
+        "Resource volume, Work volume, Management volume, cost volume, and Contact volume",
+        "Executive summary, Technical volume, Management volume, Cost volume, and Fiscal volume",
+        "None of them"
+      ],
+      "correctOption": 2,
+      "points": 1
+    },
+    {
+      "question": "Which of the following statements give correct information about formal proposals?",
+      "options": [
+        "Executive summaries often are written by a team of executive engineers.",
+        "Cost volume is generally written by a team of experts in management theory",
+        "Management volume is written by human resource (HR) experts, who are responsible for luring people with the necessary skills,",
+        "None of them"
       ],
       "correctOption": 3,
       "points": 1
     },
     {
-      "question": "The primary focus in writing a process description is on the mechanism's function and how the parts work together. [cite: 81]",
-      "options": ["True [cite: 82]", "False [cite: 83]"],
+      "question": "The primary focus in writing a process description is on the mechanism's function and how the parts work together.",
+      "options": ["True", "False"],
       "correctOption": 1,
       "points": 1
     },
     {
-      "question": "What information should be included in the introduction of a formal report? [cite: 84]",
+      "question": "What information should be included in the introduction of a formal report?",
       "options": [
-        "Copies of surveys [cite: 85]",
-        "A discussion of the report findings [cite: 87]",
-        "Conclusions and recommendations [cite: 86]",
-        "Explanation of the problem [cite: 88]"
+        "Copies of surveys",
+        "A discussion of the report findings",
+        "Conclusions and recommendations",
+        "Explanation of the problem"
       ],
       "correctOption": 3,
       "points": 1
     },
     {
-      "question": "A researcher includes a figure from another published article in their manuscript and cites the source. This is not plagiarism, but permission from the original publisher may still be needed. [cite: 89, 90]",
-      "options": ["True [cite: 90]", "False [cite: 91]"],
+      "question": "A researcher includes a figure from another published article in their manuscript and cites the source. This is not plagiarism, but permission from the original publisher may still be needed.",
+      "options": ["True", "False"],
       "correctOption": 0,
       "points": 1
     },
     {
-      "question": "Paraphrasing your own work without proper citation is not a form of self-plagiarism. [cite: 92]",
-      "options": ["True [cite: 92]", "False [cite: 93]"],
+      "question": "Paraphrasing your own work without proper citation is not a form of self-plagiarism.",
+      "options": ["True", "False"],
       "correctOption": 1,
       "points": 1
     },
     {
-      "question": "An academic researcher includes a direct quote from a book in their paper, using proper quotation marks and citing the source correctly. This is a type of plagiarism. [cite: 94, 95]",
-      "options": ["Yes [cite: 95]", "No [cite: 95]"],
+      "question": "An academic researcher includes a direct quote from a book in their paper, using proper quotation marks and citing the source correctly. This is a type of plagiarism.",
+      "options": ["Yes", "No"],
       "correctOption": 1,
       "points": 1
     },
     {
-      "question": "Which of the following is the form of extension used in the following technical definition? The Internet of things (IoT) describes devices with sensors, processing ability, software and other technologies that connect and exchange data with other devices and systems over the Internet or other communications networks engineering Examples of IoT systems include smart home automation, remote patient monitoring and healthcare, and smart grids. [cite: 96, 97]",
+      "question": "Which of the following is the form of extension used in the following technical definition? The Internet of things (IoT) describes devices with sensors, processing ability, software and other technologies that connect and exchange data with other devices and systems over the Internet or other communications networks engineering Examples of IoT systems include smart home automation, remote patient monitoring and healthcare, and smart grids.",
       "options": [
-        "Exemplification [cite: 98]",
-        "Further Definition [cite: 98]",
-        "Cause and effect [cite: 101]",
-        "Classification [cite: 98]"
-      ],
-      "correctOption": 0,
-      "points": 1
-    },
-    {
-      "question": "What is a common feature of creative writing? [cite: 99]",
-      "options": [
-        "Expression of personal experiences and emotions [cite: 100]",
-        "Clarity and precision [cite: 102]",
-        "Strict adherence to factual information [cite: 100]",
-        "Impersonal and objective tone [cite: 103]"
+        "Exemplification",
+        "Further Definition",
+        "Cause and effect",
+        "Classification"
       ],
       "correctOption": 0,
       "points": 1
     },
     {
-      "question": "Listing mechanism's parts spatially is to order the parts in terms of how the parts function with one another [cite: 104]",
-      "options": ["True [cite: 104]", "False [cite: 105]"],
-      "correctOption": 1,
-      "points": 1
-    },
-    {
-      "question": "Which of the following is the form of extension used in the following technical definition? A diode is a two-terminal electronic component that conducts current primarily in one direction (asymmetric conductance). It has low (ideally zero) resistance in one direction and high (ideally infinite) resistance in the other [cite: 109, 110, 111]",
+      "question": "What is a common feature of creative writing?",
       "options": [
-        "Exemplification [cite: 111]",
-        "Classification [cite: 112]",
-        "Cause and effect [cite: 111]",
-        "Etymology [cite: 113]"
-      ],
-      "correctOption": 2,
-      "points": 1
-    },
-    {
-      "question": "In technical reports, conclusions and judgments may be written based on theoretical derivations [cite: 114]",
-      "options": ["True [cite: 114]", "False [cite: 114]"],
-      "correctOption": 0,
-      "points": 1
-    },
-    {
-      "question": "Which alteration practice may lead to ethical concerns in educational materials? [cite: 115]",
-      "options": [
-        "Simplifying complex diagrams for clarity [cite: 116]",
-        "Adding annotations for better understanding [cite: 116]",
-        "Altering data to fit a hypothesis [cite: 117]",
-        "Cropping images to remove irrelevant details [cite: 117]"
-      ],
-      "correctOption": 2,
-      "points": 1
-    },
-    {
-      "question": "What ethical consideration applies to altering images in scientific publications? [cite: 118]",
-      "options": [
-        "Adjusting colors for better visualization [cite: 119]",
-        "Enhancing contrast to highlight details [cite: 120]",
-        "Avoiding alterations that misrepresent or fabricate data [cite: 121]",
-        "Deleting unnecessary elements for clarity [cite: 121]"
-      ],
-      "correctOption": 2,
-      "points": 1
-    },
-    {
-      "question": "Which extension deals with explaining the relationship between events or concepts where one is the result of another? [cite: 122, 123]",
-      "options": [
-        "Cause and Effect [cite: 123]",
-        "Etymology [cite: 124]",
-        "Process [cite: 125]"
+        "Expression of personal experiences and emotions",
+        "Clarity and precision",
+        "Strict adherence to factual information",
+        "Impersonal and objective tone"
       ],
       "correctOption": 0,
       "points": 1
     },
     {
-      "question": "What is the primary emphasis when composing a mechanism description [cite: 126]",
+      "question": "Listing mechanism's parts spatially is to order the parts in terms of how the parts function with one another",
+      "options": ["True", "False"],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "Which of the following is the form of extension used in the following technical definition? A diode is a two-terminal electronic component that conducts current primarily in one direction (asymmetric conductance). It has low (ideally zero) resistance in one direction and high (ideally infinite) resistance in the other",
       "options": [
-        "Explaining the theoretical aspects of a device [cite: 128]",
-        "Focusing on the operational steps of a device [cite: 128]",
-        "Highlighting the physical characteristics and attributes of a device and its parts [cite: 129]",
-        "Analyzing the historical significance of a device [cite: 130]"
+        "Exemplification",
+        "Classification",
+        "Cause and effect",
+        "Etymology"
       ],
       "correctOption": 2,
       "points": 1
     },
     {
-      "question": "For average reader, you should sacrifice desired precision in your definition to achieve the required level of communication. [cite: 131]",
-      "options": ["True [cite: 132]", "False [cite: 132]"],
+      "question": "In technical reports, conclusions and judgments may be written based on theoretical derivations",
+      "options": ["True", "False"],
       "correctOption": 0,
       "points": 1
     },
     {
-      "question": "Technical writing is writing that displays a high level of abstraction [cite: 133]",
-      "options": ["True [cite: 133]", "False [cite: 135]"],
-      "correctOption": 1,
-      "points": 1
-    },
-    {
-      "question": "What do process descriptions primarily entail? [cite: 138]",
+      "question": "Which alteration practice may lead to ethical concerns in educational materials?",
       "options": [
-        "Explaining theoretical concepts [cite: 136]",
-        "Detailing steps in the operation of a mechanism or a conceptual process [cite: 136]",
-        "Illustrating artistic representations [cite: 136]",
-        "Analyzing historical contexts [cite: 136]"
-      ],
-      "correctOption": 1,
-      "points": 1
-    },
-    {
-      "question": "A writer includes widely accepted scientific facts, such as \"E=mc²\" in a physics paper without citing a specific source. Is this considered plagiarism? [cite: 137, 138]",
-      "options": [
-        "Yes, any factual statement requires a citation. [cite: 139]",
-        "No, widely accepted facts are considered common knowledge. [cite: 140]",
-        "Yes, it falls under self-plagiarism. [cite: 141]",
-        "No, as long as it's a well-known scientific principle, it's not plagiarism [cite: 141]"
-      ],
-      "correctOption": 1,
-      "points": 1
-    },
-    {
-      "question": "In a formal proposal, which volume emphasizes project organization and administration? [cite: 142]",
-      "options": [
-        "Technical volume [cite: 142]",
-        "Management volume [cite: 143]",
-        "Cost volume [cite: 144]",
-        "Resource volume [cite: 144]"
-      ],
-      "correctOption": 1,
-      "points": 1
-    },
-    {
-      "question": "In technical report writing, you should refer to visual in the text after actually being used. [cite: 145]",
-      "options": ["True [cite: 145]", "False [cite: 146]"],
-      "correctOption": 1,
-      "points": 1
-    },
-    {
-      "question": "How does the abstraction ladder contribute to effective technical communication? [cite: 147]",
-      "options": [
-        "It discourages the use of abstract concepts in technical reports [cite: 148]",
-        "It ensures that technical reports are only focused on concrete details [cite: 149]",
-        "It helps match the level of detail to the audience's knowledge and expertise [cite: 150]",
-        "It limits the use of specific examples in technical writing [cite: 151]"
+        "Simplifying complex diagrams for clarity",
+        "Adding annotations for better understanding",
+        "Altering data to fit a hypothesis",
+        "Cropping images to remove irrelevant details"
       ],
       "correctOption": 2,
       "points": 1
     },
     {
-      "question": "Formal reports are prepared by a team of experts on behalf of an organization [cite: 152]",
-      "options": ["True [cite: 152]", "False [cite: 153]"],
+      "question": "What ethical consideration applies to altering images in scientific publications?",
+      "options": [
+        "Adjusting colors for better visualization",
+        "Enhancing contrast to highlight details",
+        "Avoiding alterations that misrepresent or fabricate data",
+        "Deleting unnecessary elements for clarity"
+      ],
+      "correctOption": 2,
+      "points": 1
+    },
+    {
+      "question": "Which extension deals with explaining the relationship between events or concepts where one is the result of another?",
+      "options": [
+        "Cause and Effect",
+        "Etymology",
+        "Process"
+      ],
       "correctOption": 0,
       "points": 1
     },
     {
-      "question": "Using an image from the internet and crediting the website source is sufficient, even if the image was altered [cite: 154]",
-      "options": ["True [cite: 154]", "False [cite: 155]"],
-      "correctOption": 1,
-      "points": 1
-    },
-    {
-      "question": "The visuals in mechanism description must show a dynamic representation of object [cite: 156]",
-      "options": ["True [cite: 156]", "False [cite: 156]"],
-      "correctOption": 1,
-      "points": 1
-    },
-    {
-      "question": "A qualifier is used to add further information to technical definitions when [cite: 157]",
+      "question": "What is the primary emphasis when composing a mechanism description",
       "options": [
-        "assigning a precise meaning to a term. [cite: 158]",
-        "describing the overall function or purpose [cite: 158]",
-        "narrowing the meaning of the term to just one possibility within the class [cite: 158]",
-        "None of these [cite: 159]"
+        "Explaining the theoretical aspects of a device",
+        "Focusing on the operational steps of a device",
+        "Highlighting the physical characteristics and attributes of a device and its parts",
+        "Analyzing the historical significance of a device"
       ],
       "correctOption": 2,
       "points": 1
     },
     {
-      "question": "Interaction between proposal writers and proposal evaluators is always encouraged. [cite: 163]",
-      "options": ["True [cite: 163]", "False [cite: 164]"],
-      "correctOption": 1,
-      "points": 1
-    },
-    {
-      "question": "What characteristic signifies the need for technical writing to adhere strictly to specific guidelines and standards [cite: 165]",
-      "options": [
-        "Technical writing deals with technical information [cite: 165]",
-        "Technical writing relies heavily on visuals [cite: 165]",
-        "Technical writing is grammatically and stylistically correct [cite: 166]",
-        "Technical writing is accurate and well documented [cite: 167]"
-      ],
-      "correctOption": 2,
-      "points": 1
-    },
-    {
-      "question": "Generator, transmission, and distribution can be the parts of a mechanism. [cite: 168]",
-      "options": ["True [cite: 168]", "False [cite: 169]"],
+      "question": "For average reader, you should sacrifice desired precision in your definition to achieve the required level of communication.",
+      "options": ["True", "False"],
       "correctOption": 0,
       "points": 1
     },
     {
-      "question": "Classification involves narrowing the meaning of the term to one possibility within the class [cite: 170]",
-      "options": ["True [cite: 170]", "False [cite: 170]"],
+      "question": "Technical writing is writing that displays a high level of abstraction",
+      "options": ["True", "False"],
       "correctOption": 1,
       "points": 1
     },
     {
-      "question": "What does the Technical volume primarily focus on in a formal proposal? [cite: 171]",
+      "question": "What do process descriptions primarily entail?",
       "options": [
-        "Comprehensive financial breakdown and estimations [cite: 172]",
-        "Project organization and administration [cite: 172]",
-        "Detailed technical specifications and methodologies [cite: 173]",
-        "Resource allocation and scheduling [cite: 173]"
+        "Explaining theoretical concepts",
+        "Detailing steps in the operation of a mechanism or a conceptual process",
+        "Illustrating artistic representations",
+        "Analyzing historical contexts"
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "A writer includes widely accepted scientific facts, such as \"E=mc²\" in a physics paper without citing a specific source. Is this considered plagiarism?",
+      "options": [
+        "Yes, any factual statement requires a citation.",
+        "No, widely accepted facts are considered common knowledge.",
+        "Yes, it falls under self-plagiarism.",
+        "No, as long as it's a well-known scientific principle, it's not plagiarism"
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "In a formal proposal, which volume emphasizes project organization and administration?",
+      "options": [
+        "Technical volume",
+        "Management volume",
+        "Cost volume",
+        "Resource volume"
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "In technical report writing, you should refer to visual in the text after actually being used.",
+      "options": ["True", "False"],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "How does the abstraction ladder contribute to effective technical communication?",
+      "options": [
+        "It discourages the use of abstract concepts in technical reports",
+        "It ensures that technical reports are only focused on concrete details",
+        "It helps match the level of detail to the audience's knowledge and expertise",
+        "It limits the use of specific examples in technical writing"
       ],
       "correctOption": 2,
       "points": 1
     },
     {
-      "question": "Which of the following is the form of extension used in the following technical definition? A transistor is a semiconductor device used to amplify or switch electrical signals and power. It is one of the basic building blocks of modern electronics Most transistors are made from very pure silicon, and some from germanium. but certain other semiconductor materials are sometimes used. [cite: 174, 175, 176, 177]",
-      "options": [
-        "Exemplification [cite: 178]",
-        "Further Definition [cite: 178]",
-        "Cause and effect [cite: 178]",
-        "Classification [cite: 182]"
-      ],
+      "question": "Formal reports are prepared by a team of experts on behalf of an organization",
+      "options": ["True", "False"],
+      "correctOption": 0,
+      "points": 1
+    },
+    {
+      "question": "Using an image from the internet and crediting the website source is sufficient, even if the image was altered",
+      "options": ["True", "False"],
       "correctOption": 1,
       "points": 1
     },
     {
-      "question": "Which statement about numbering tables and figures is accurate? [cite: 179]",
+      "question": "The visuals in mechanism description must show a dynamic representation of object",
+      "options": ["True", "False"],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "A qualifier is used to add further information to technical definitions when",
       "options": [
-        "Tables and figures should have the same number for clarity [cite: 180]",
-        "Tables and figures should be left unnumbered for simplicity [cite: 181]",
-        "Tables and figures should be numbered separately [cite: 183]",
-        "Numbering tables is essential, numbering figures is optional [cite: 183]"
+        "assigning a precise meaning to a term.",
+        "describing the overall function or purpose",
+        "narrowing the meaning of the term to just one possibility within the class",
+        "None of these"
       ],
       "correctOption": 2,
       "points": 1
     },
     {
-      "question": "A group of writers collaborates on a project, sharing ideas and information, and each contributes unique perspective to the final work, duly acknowledge. This is a type of plagiarism. [cite: 184, 185]",
-      "options": ["Yes [cite: 185]", "No [cite: 185]"],
+      "question": "Interaction between proposal writers and proposal evaluators is always encouraged.",
+      "options": ["True", "False"],
       "correctOption": 1,
       "points": 1
     },
     {
-      "question": "Technical writing doesn't require obligation to specific formatting or style guidelines. [cite: 186]",
-      "options": ["True [cite: 186]", "False [cite: 187]"],
-      "correctOption": 1,
-      "points": 1
-    },
-    {
-      "question": "A student summarizes an article's main points in his own words but acknowledges the original source properly in the text. This is a type of plagiarism. [cite: 188, 189]",
-      "options": ["Yes [cite: 189]", "No [cite: 189]"],
-      "correctOption": 1,
-      "points": 1
-    },
-    {
-      "question": "Which extension in technical definition involves providing a detailed breakdown of a concept, offering additional insights and specifics? [cite: 190]",
+      "question": "What characteristic signifies the need for technical writing to adhere strictly to specific guidelines and standards",
       "options": [
-        "Classification [cite: 191]",
-        "Cause and Effect [cite: 191]",
-        "Exemplification [cite: 192]",
-        "Further Definition [cite: 193]"
+        "Technical writing deals with technical information",
+        "Technical writing relies heavily on visuals",
+        "Technical writing is grammatically and stylistically correct",
+        "Technical writing is accurate and well documented"
+      ],
+      "correctOption": 2,
+      "points": 1
+    },
+    {
+      "question": "Generator, transmission, and distribution can be the parts of a mechanism.",
+      "options": ["True", "False"],
+      "correctOption": 0,
+      "points": 1
+    },
+    {
+      "question": "Classification involves narrowing the meaning of the term to one possibility within the class",
+      "options": ["True", "False"],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "What does the Technical volume primarily focus on in a formal proposal?",
+      "options": [
+        "Comprehensive financial breakdown and estimations",
+        "Project organization and administration",
+        "Detailed technical specifications and methodologies",
+        "Resource allocation and scheduling"
+      ],
+      "correctOption": 2,
+      "points": 1
+    },
+    {
+      "question": "Which of the following is the form of extension used in the following technical definition? A transistor is a semiconductor device used to amplify or switch electrical signals and power. It is one of the basic building blocks of modern electronics Most transistors are made from very pure silicon, and some from germanium. but certain other semiconductor materials are sometimes used.",
+      "options": [
+        "Exemplification",
+        "Further Definition",
+        "Cause and effect",
+        "Classification"
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "Which statement about numbering tables and figures is accurate?",
+      "options": [
+        "Tables and figures should have the same number for clarity",
+        "Tables and figures should be left unnumbered for simplicity",
+        "Tables and figures should be numbered separately",
+        "Numbering tables is essential, numbering figures is optional"
+      ],
+      "correctOption": 2,
+      "points": 1
+    },
+    {
+      "question": "A group of writers collaborates on a project, sharing ideas and information, and each contributes unique perspective to the final work, duly acknowledge. This is a type of plagiarism.",
+      "options": ["Yes", "No"],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "Technical writing doesn't require obligation to specific formatting or style guidelines.",
+      "options": ["True", "False"],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "A student summarizes an article's main points in his own words but acknowledges the original source properly in the text. This is a type of plagiarism.",
+      "options": ["Yes", "No"],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "Which extension in technical definition involves providing a detailed breakdown of a concept, offering additional insights and specifics?",
+      "options": [
+        "Classification",
+        "Cause and Effect",
+        "Exemplification",
+        "Further Definition"
       ],
       "correctOption": 3,
       "points": 1
     },
     {
-      "question": "In technical writing, which extension delves into the historical origin and development of a term or concept? [cite: 194]",
+      "question": "In technical writing, which extension delves into the historical origin and development of a term or concept?",
       "options": [
-        "Etymology [cite: 195]",
-        "Process [cite: 195]",
-        "Comparison and Contrast [cite: 195]",
-        "Cause and Effect [cite: 195]"
+        "Etymology",
+        "Process",
+        "Comparison and Contrast",
+        "Cause and Effect"
       ],
       "correctOption": 0,
       "points": 1
     },
     {
-      "question": "What aspect of technical writing implies the presentation of information that can be independently verified and validated? [cite: 196]",
+      "question": "What aspect of technical writing implies the presentation of information that can be independently verified and validated?",
       "options": [
-        "Technical writing uses numerical data to precisely describe quantity and direction [cite: 197]",
-        "Technical writing is grammatically and stylistically correct [cite: 198]",
-        "Technical writing is accurate and well documented [cite: 199]",
-        "Technical writing deals with technical information [cite: 200]"
+        "Technical writing uses numerical data to precisely describe quantity and direction",
+        "Technical writing is grammatically and stylistically correct",
+        "Technical writing is accurate and well documented",
+        "Technical writing deals with technical information"
       ],
       "correctOption": 2,
       "points": 1
     },
     {
-      "question": "Paraphrasing without proper citation is acceptable in technical writing as long as the information is rephrased [cite: 201]",
-      "options": ["True [cite: 201]", "False [cite: 202]"],
+      "question": "Paraphrasing without proper citation is acceptable in technical writing as long as the information is rephrased",
+      "options": ["True", "False"],
       "correctOption": 1,
       "points": 1
     }
