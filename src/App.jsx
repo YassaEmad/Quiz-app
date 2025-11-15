@@ -12,21 +12,22 @@ import Finish from "./components/Finish";
 
 const inital = {
   questions: [],
-  status: "loading",
+  status: "ready",
   index: 0,
   answer: null,
   points: 0,
   highScore: 0,
+  api: "",
 };
 function reducer(state, action) {
   const quest = state.questions.at(state.index);
   switch (action.type) {
     case "daRe":
-      return { ...state, questions: action.payload, status: "ready" };
+      return { ...state, questions: action.payload, status: "active" };
     case "daFa":
       return { ...state, status: "error" };
     case "start":
-      return { ...state, status: "active" };
+      return { ...state, status: "loading" };
     case "newAnswer":
       return {
         ...state,
@@ -52,7 +53,10 @@ function reducer(state, action) {
         index: 0,
         points: 0,
         highScore: 0,
+        api: null,
       };
+    case "changeApi":
+      return { ...state, api: action.payload };
 
     default:
       throw new Error("action unknown");
@@ -60,17 +64,23 @@ function reducer(state, action) {
 }
 
 function App() {
-  const [{ questions, status, index, answer, points, highScore }, dispatch] =
-    useReducer(reducer, inital);
+  const [
+    { questions, status, index, answer, points, highScore, api },
+    dispatch,
+  ] = useReducer(reducer, inital);
 
-  useEffect(function () {
-    fetch(
-      "https://raw.githubusercontent.com/YassaEmad/Quiz-app/main/api/db.json"
-    )
-      .then((res) => res.json())
-      .then((data) => dispatch({ type: "daRe", payload: data.questions }))
-      .catch((error) => dispatch({ type: "daFa", payload: error }));
-  }, []);
+  useEffect(
+    function () {
+      if (status !== "loading" || !api) return;
+      fetch(
+        `https://raw.githubusercontent.com/YassaEmad/Quiz-app/main/api/${api}.json`
+      )
+        .then((res) => res.json())
+        .then((data) => dispatch({ type: "daRe", payload: data.questions }))
+        .catch((error) => dispatch({ type: "daFa", payload: error }));
+    },
+    [api, status]
+  );
   const num = questions.length;
   const max = questions.reduce((prev, cur) => prev + cur.points, 0);
   return (
@@ -80,7 +90,8 @@ function App() {
         <Main>
           {status === "loading" && <Loader />}
           {status === "error" && <Error />}
-          {status === "ready" && <StartScreen num={num} dispatch={dispatch} />}
+          {status === "ready" && <StartScreen dispatch={dispatch} />}
+
           {status === "active" && (
             <>
               <Progress
