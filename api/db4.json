@@ -1,14 +1,12 @@
 {
   "questions": [
     {
-      "question": "What is the maximum amount of time an employer typically spends on the initial review of an applicant's resume?",
+      "question": "In a progress report, you should avoid being overly optimistic or pessimistic",
       "options": [
-        "15 seconds",
-        "20 seconds",
-        "45 seconds",
-        "60 seconds"
+        "True",
+        "False"
       ],
-      "correctOption": 2,
+      "correctOption": 0,
       "points": 1
     },
     {
