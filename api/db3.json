@@ -1,0 +1,334 @@
+{
+  "questions": [
+    {
+      "question": "What is the correct sequence of the first three structural components listed for a research paper?",
+      "options": [
+        "Title, Abstract, Introduction",
+        "Title, List of Authors, Abstract",
+        "Title, Introduction, Related work",
+        "Title, Abstract, List of Authors"
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "A research paper title should be as short as possible but without which element, unless it is commonly understood?",
+      "options": [
+        "Key phrases",
+        "Abbreviations",
+        "General concepts",
+        "Specific results"
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "According to the sources, for a research paper to include an individual as an author, they must have made a significant intellectual contribution to the work described in the paper and also done what?",
+      "options": [
+        "Provided all the external funding sources.",
+        "Conducted the data analysis only.",
+        "Approved the final version of the paper including references.",
+        "Shortened the abstract to 100 words."
+      ],
+      "correctOption": 2,
+      "points": 1
+    },
+    {
+      "question": "It is against ethical grounds to include which type of individual as an author on a paper?",
+      "options": [
+        "One who made a significant intellectual contribution.",
+        "One who made a contribution to drafting the paper.",
+        "One who has not made any contribution.",
+        "One who approved the final version of the paper."
+      ],
+      "correctOption": 2,
+      "points": 1
+    },
+    {
+      "question": "What is the typical maximum word count suggested for the abstract of a research paper?",
+      "options": [
+        "Not more than 100 words.",
+        "Typically not more than 150 to 200 words.",
+        "Not more than 500 words.",
+        "Exactly one page in length."
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "The abstract of a research paper should aim to motivate people to read the paper and primarily highlight which two elements?",
+      "options": [
+        "The list of references and acknowledgements.",
+        "The future work and the methodology.",
+        "The problem and principal results.",
+        "The history of related work and ethical considerations."
+      ],
+      "correctOption": 2,
+      "points": 1
+    },
+    {
+      "question": "Which component should be kept to a minimum in the abstract?",
+      "options": [
+        "Key phrases for search engines.",
+        "Highlighted principal results.",
+        "Equations and other mathematical expressions.",
+        "Motivation for the topic."
+      ],
+      "correctOption": 2,
+      "points": 1
+    },
+    {
+      "question": "Besides stating the general area of interest and introducing the problem, what should the Introduction section of a research paper outline?",
+      "options": [
+        "The comprehensive list of all references used.",
+        "The acknowledgement of anonymous referees.",
+        "The approach taken to solve the problem.",
+        "The details of sample storage/treatment."
+      ],
+      "correctOption": 2,
+      "points": 1
+    },
+    {
+      "question": "The section on Related Work serves to give credit to previously existing work and also establishes what for the current paper?",
+      "options": [
+        "The readability of the text.",
+        "The originality of the current work.",
+        "The optimization of diagrams.",
+        "The factuality of the data."
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "Failure to give proper credit to related work can result in what negative outcome?",
+      "options": [
+        "Shortening of the title.",
+        "A bad evaluation and potentially kill your paper.",
+        "Placement of the related work at the end of the paper.",
+        "Increased interpretability."
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "Where can the Related Work section be placed within the structure of a research paper?",
+      "options": [
+        "Only as a standalone section immediately following the Abstract.",
+        "Only as part of the body of the paper before the Conclusion.",
+        "Either as part of your introduction section or can be placed at the end of the body of the paper.",
+        "Only as a footnote on the Title page."
+      ],
+      "correctOption": 2,
+      "points": 1
+    },
+    {
+      "question": "The Outline of the rest of the paper is typically located where?",
+      "options": [
+        "At the beginning of the Abstract.",
+        "As part of the Acknowledgements.",
+        "Typically at the end of the introduction section.",
+        "As the final section before the List of references."
+      ],
+      "correctOption": 2,
+      "points": 1
+    },
+    {
+      "question": "What defines the structure of the Body of the paper?",
+      "options": [
+        "It strictly follows the structure of a theoretical research paper.",
+        "It depends strongly on the subject area and the topic of the paper.",
+        "It must always include a new system architecture description.",
+        "It must not include applications or consequences of results."
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "A paper focused on theoretical research typically includes basic definitions, description of a new algorithm, and a sequence of theorems accompanied by what?",
+      "options": [
+        "Only evaluation metrics.",
+        "Proof or sketches.",
+        "A complete policy proposal.",
+        "A methodology chapter."
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "A computer science paper focused on applied research typically includes the architecture of a new system, description, and finally what major section?",
+      "options": [
+        "Sequence of theorems.",
+        "Application consequences.",
+        "Evaluation.",
+        "Literature review."
+      ],
+      "correctOption": 2,
+      "points": 1
+    },
+    {
+      "question": "Which writing hint suggests filling in the body first, then writing the introduction, related work, and conclusion, and finally the abstract?",
+      "options": [
+        "Top down Design.",
+        "Optimization.",
+        "Inside out writing.",
+        "Factuality."
+      ],
+      "correctOption": 2,
+      "points": 1
+    },
+    {
+      "question": "The Conclusion and/or Future Work section summarizes the contribution and outlines what else?",
+      "options": [
+        "The external funding sources.",
+        "The future directions of the research.",
+        "The contradictory statements found in the literature.",
+        "The specific citation style used."
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "Who might be thanked in the Acknowledgements section, provided they gave an exceptional level of feedback or important insights?",
+      "options": [
+        "The authors listed on the paper.",
+        "Anonymous referees.",
+        "Search engines used for key phrases.",
+        "The university library."
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "What is the fundamental definition of a Thesis/Dissertation?",
+      "options": [
+        "A short outline detailing future work.",
+        "A document submitted in support of candidature for a degree or professional qualification presenting the author's research and findings.",
+        "A published journal article.",
+        "An extended abstract of the work."
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "In some academic contexts, which term is normally applied to a doctorate?",
+      "options": [
+        "Thesis (in all contexts).",
+        "Dissertation.",
+        "Literature Review.",
+        "Methodology Chapter."
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "When defining the research problem in a thesis, sufficient background must be provided so the examiner appreciates the problem and highlights what shortage?",
+      "options": [
+        "Shortage in required page numbers.",
+        "Shortage in current knowledge.",
+        "Shortage of authors.",
+        "Shortage of mathematical expressions."
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "According to the general structure provided, what follows the Title page and precedes the Table of contents in a thesis?",
+      "options": [
+        "Introduction.",
+        "Abstract.",
+        "Bibliography.",
+        "Findings chapter."
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "For a thesis abstract, what is the typical length requirement mentioned?",
+      "options": [
+        "Typically not more than 150 to 200 words.",
+        "Typically not more than half-one page.",
+        "Must fit exactly on one page.",
+        "As long as necessary to cover all chapters."
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "The Literature Review section must summarize the current state of knowledge and identify what crucial element?",
+      "options": [
+        "The required font size.",
+        "The details of the sample population.",
+        "Gaps in knowledge.",
+        "The formatting guidelines."
+      ],
+      "correctOption": 2,
+      "points": 1
+    },
+    {
+      "question": "What is the purpose of the Methodology chapter in a thesis body?",
+      "options": [
+        "To analyze results in the context of previous literature.",
+        "To introduce the research topic and rationale.",
+        "To outline the results of the research itself.",
+        "Explaining how the research has been designed and why the research methods being used have been chosen."
+      ],
+      "correctOption": 3,
+      "points": 1
+    },
+    {
+      "question": "Which specific detail is necessary to include in the Materials & Method section?",
+      "options": [
+        "The final analysis contribution.",
+        "Sample size, sample population, and sample storage/treatment.",
+        "The discussion and interpretation of all data.",
+        "The logical progression of ideas."
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "In the Discussion & Interpretation section, the author should demonstrate the ability to recognize what?",
+      "options": [
+        "The use of common abbreviations.",
+        "The significance of the data.",
+        "The need for optimization.",
+        "The ethical grounds for authorship."
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "Regarding Data Analysis & Presentation, the author must ensure the solutions obtained relate to what?",
+      "options": [
+        "The acknowledgements.",
+        "The questions posed.",
+        "The citation style.",
+        "The length of the bibliography."
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "What is listed as a major characteristic that makes a thesis poor?",
+      "options": [
+        "Novelty/originality.",
+        "Clear & specific objectives.",
+        "Lack of well-structured argument.",
+        "Elegance of design."
+      ],
+      "correctOption": 2,
+      "points": 1
+    },
+    {
+      "question": "A key point in the Final Analysis of a thesis is whether it has made a substantive original contribution to what?",
+      "options": [
+        "The author’s funding sources.",
+        "Our knowledge & understanding.",
+        "The length of the table of contents.",
+        "The order of components on the title page."
+      ],
+      "correctOption": 1,
+      "points": 1
+    }
+  ]
+}
