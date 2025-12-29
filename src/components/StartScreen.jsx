@@ -13,7 +13,7 @@ function StartScreen({ dispatch }) {
     { value: "db2", label: "CH (11,12) CHATGPT" },
     { value: "db3", label: "CH (11,12) NOTEBOOK LM" },
     { value: "db4", label: "NOTEBOOK LM EXAM" },
-    { value: "db4", label: "NOTEBOOK LM EXAM-2" },
+    { value: "db5", label: "NOTEBOOK LM EXAM-2" },
   ];
 
   useEffect(() => {
