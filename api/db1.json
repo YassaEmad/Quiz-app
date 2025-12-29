@@ -1,139 +1,334 @@
 {
   "questions": [
     {
-      "question": "Which is the most popular JavaScript framework?",
-      "options": ["Angular", "React", "Svelte", "Vue"],
+      "question": "According to the lecture, what best describes a thesis or dissertation?",
+      "options": [
+        "A summary of all books read during the degree",
+        "A document submitted in support of candidature for a degree presenting original research and findings",
+        "A collection of random essays on a general topic",
+        "A biography of the author's professional life"
+      ],
       "correctOption": 1,
-      "points": 10
+      "points": 1
     },
     {
-      "question": "Which company invented React?",
-      "options": ["Google", "Apple", "Netflix", "Facebook"],
-      "correctOption": 3,
-      "points": 10
-    },
-    {
-      "question": "What's the fundamental building block of React apps?",
-      "options": ["Components", "Blocks", "Elements", "Effects"],
-      "correctOption": 0,
-      "points": 10
-    },
-    {
-      "question": "What's the name of the syntax we use to describe the UI in React components?",
-      "options": ["FBJ", "Babel", "JSX", "ES2015"],
-      "correctOption": 2,
-      "points": 10
-    },
-    {
-      "question": "How does data flow naturally in React apps?",
+      "question": "Regarding the terminology of 'Thesis' vs. 'Dissertation', which statement is true?",
       "options": [
-        "From parents to children",
-        "From children to parents",
-        "Both ways",
-        "The developers decides"
+        "Thesis is always for a Doctorate and Dissertation for a Master's globally",
+        "There is no difference; they are exactly the same in every country",
+        "Usage varies by country; sometimes thesis is for a Master's and dissertation for a Doctorate, or vice versa",
+        "Dissertation is strictly for undergraduate studies only"
       ],
-      "correctOption": 0,
-      "points": 10
+      "correctOption": 2,
+      "points": 1
     },
     {
-      "question": "How to pass data into a child component?",
-      "options": ["State", "Props", "PropTypes", "Parameters"],
+      "question": "When defining the 'Research Problem' in a thesis, you should:",
+      "options": [
+        "Focus only on what is already well-known",
+        "Avoid mentioning the background of the subject",
+        "Highlight the shortage in current knowledge to put the work in proper viewpoint",
+        "Keep the objectives vague and immeasurable"
+      ],
+      "correctOption": 2,
+      "points": 1
+    },
+    {
+      "question": "Which of the following is NOT typically part of the General Structure of a thesis?",
+      "options": [
+        "Title Page",
+        "Abstract",
+        "Marketing Plan",
+        "Bibliography/References"
+      ],
+      "correctOption": 2,
+      "points": 1
+    },
+    {
+      "question": "A good thesis title should be:",
+      "options": [
+        "As long as possible to include every detail",
+        "Full of obscure abbreviations to sound technical",
+        "Specific, self-explanatory, short, and precise",
+        "Vague so it appeals to everyone"
+      ],
+      "correctOption": 2,
+      "points": 1
+    },
+    {
+      "question": "Who can ethically be listed as an author of a thesis?",
+      "options": [
+        "Anyone who provided funding only",
+        "An individual who made a significant intellectual contribution and approved the final version",
+        "A friend who proofread the grammar only",
+        "Anyone the student likes"
+      ],
       "correctOption": 1,
-      "points": 10
+      "points": 1
     },
     {
-      "question": "When to use derived state?",
+      "question": "What is the typical length limit for a thesis abstract mentioned in the lecture?",
       "options": [
-        "Whenever the state should not trigger a re-render",
-        "Whenever the state can be synchronized with an effect",
-        "Whenever the state should be accessible to all components",
-        "Whenever the state can be computed from another state variable"
+        "10 pages",
+        "Typically not more than half to one page",
+        "Exactly 50 words",
+        "5 pages"
       ],
-      "correctOption": 3,
-      "points": 30
-    },
-    {
-      "question": "What triggers a UI re-render in React?",
-      "options": [
-        "Running an effect",
-        "Passing props",
-        "Updating state",
-        "Adding event listeners to DOM elements"
-      ],
-      "correctOption": 2,
-      "points": 20
-    },
-    {
-      "question": "When do we directly \"touch\" the DOM in React?",
-      "options": [
-        "When we need to listen to an event",
-        "When we need to change the UI",
-        "When we need to add styles",
-        "Almost never"
-      ],
-      "correctOption": 3,
-      "points": 20
-    },
-    {
-      "question": "In what situation do we use a callback to update state?",
-      "options": [
-        "When updating the state will be slow",
-        "When the updated state is very data-intensive",
-        "When the state update should happen faster",
-        "When the new state depends on the previous state"
-      ],
-      "correctOption": 3,
-      "points": 30
-    },
-    {
-      "question": "If we pass a function to useState, when will that function be called?",
-      "options": [
-        "On each re-render",
-        "Each time we update the state",
-        "Only on the initial render",
-        "The first time we update the state"
-      ],
-      "correctOption": 2,
-      "points": 30
-    },
-    {
-      "question": "Which hook to use for an API request on the component's initial render?",
-      "options": ["useState", "useEffect", "useRef", "useReducer"],
       "correctOption": 1,
-      "points": 10
+      "points": 1
     },
     {
-      "question": "Which variables should go into the useEffect dependency array?",
+      "question": "What should generally be avoided in an abstract?",
       "options": [
-        "Usually none",
-        "All our state variables",
-        "All state and props referenced in the effect",
-        "All variables needed for clean up"
+        "Principal results",
+        "Key phrases for search optimization",
+        "Equations and mathematical expressions",
+        "The problem statement"
       ],
       "correctOption": 2,
-      "points": 30
+      "points": 1
     },
     {
-      "question": "An effect will always run on the initial render.",
+      "question": "The 'Body' of the thesis typically includes which sequence of chapters?",
       "options": [
-        "True",
-        "It depends on the dependency array",
-        "False",
-        "In depends on the code in the effect"
+        "Conclusion, Introduction, Findings",
+        "Introduction, Literature Review, Methodology, Findings, Analysis, Conclusion",
+        "Abstract, Title Page, Bibliography",
+        "Methodology, Introduction, Abstract"
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "What is a key function of the Literature Review?",
+      "options": [
+        "To pad the thesis with extra pages",
+        "To summarize the current state of knowledge and identify gaps",
+        "To list every book ever written on the topic",
+        "To copy existing theories without analysis"
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "The 'Materials & Method' section should include detailed information on:",
+      "options": [
+        "The author's biography",
+        "Sampling technique, instrumentation specifications, and data analysis tools",
+        "The history of the university",
+        "The cost of the research"
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "In the 'Discussion & Interpretation' chapter, the student must demonstrate:",
+      "options": [
+        "Ability to recognize and deal with contradictions",
+        "Ability to ignore data that doesn't fit the hypothesis",
+        "Ability to repeat the results without analysis",
+        "A lack of logical progression"
       ],
       "correctOption": 0,
-      "points": 30
+      "points": 1
     },
     {
-      "question": "When will an effect run if it doesn't have a dependency array?",
+      "question": "Which question is critical for the 'Final Analysis' of a thesis?",
       "options": [
-        "Only when the component mounts",
-        "Only when the component unmounts",
-        "The first time the component re-renders",
-        "Each time the component is re-rendered"
+        "Did the thesis use a specific font size?",
+        "Has the thesis made a substantive original contribution to knowledge?",
+        "Is the paper color white?",
+        "Are there exactly 100 pages?"
       ],
-      "correctOption": 3,
-      "points": 20
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "Which of the following is listed as a characteristic of a 'Poor Thesis'?",
+      "options": [
+        "Cohesiveness",
+        "Lack of novelty/originality",
+        "Clear objectives",
+        "Elegance of design"
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "An 'Outstanding Thesis' is characterized by:",
+      "options": [
+        "Researching the wrong problem",
+        "Lack of substantive data",
+        "Cohesiveness, clarity, and creativity",
+        "Being an end in itself rather than opening new scenes"
+      ],
+      "correctOption": 2,
+      "points": 1
+    },
+    {
+      "question": "Which of the following is NOT part of the structure of a research paper?",
+      "options": [
+        "Related work",
+        "Introduction",
+        "Dedication page with family photos",
+        "Acknowledgements"
+      ],
+      "correctOption": 2,
+      "points": 1
+    },
+    {
+      "question": "When writing a title for a research paper, you should:",
+      "options": [
+        "Include abbreviations even if they are not commonly understood",
+        "Make it as general as possible",
+        "Include key phrases likely to be used in a search",
+        "Make it inconclusive and long"
+      ],
+      "correctOption": 2,
+      "points": 1
+    },
+    {
+      "question": "Regarding authorship ethics in a research paper:",
+      "options": [
+        "You must include the department head even if they did nothing",
+        "You must not include any author if he/she has not made any contribution",
+        "You can include friends to help their careers",
+        "Authorship is decided by lottery"
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "What is the typical word count for a research paper abstract?",
+      "options": [
+        "500–1000 words",
+        "10–20 words",
+        "150 to 200 words",
+        "There is no limit"
+      ],
+      "correctOption": 2,
+      "points": 1
+    },
+    {
+      "question": "The primary goal of the research paper abstract is to:",
+      "options": [
+        "Motivate people to read the paper",
+        "List all the references",
+        "Explain the mathematical proofs in detail",
+        "Thank the funding agencies"
+      ],
+      "correctOption": 0,
+      "points": 1
+    },
+    {
+      "question": "Which of the following should be included in the Introduction?",
+      "options": [
+        "A repetition of the abstract word-for-word",
+        "The state of the general area of interest and the problem statement",
+        "Conflicting statements",
+        "The detailed code of the software used"
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "What is the purpose of the 'Related Work' section?",
+      "options": [
+        "To criticize other authors unfairly",
+        "To give credit to previous work and establish the originality of the current work",
+        "To repeat the introduction",
+        "To list unrelated papers to look smart"
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "Where can the 'Related Work' section be placed?",
+      "options": [
+        "Only in the abstract",
+        "Either as part of the introduction or at the end of the body of the paper",
+        "After the references",
+        "Inside the acknowledgements"
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "The 'Outline of the paper' typically appears:",
+      "options": [
+        "At the end of the Introduction section",
+        "In the Abstract",
+        "In the Conclusion",
+        "In the Title"
+      ],
+      "correctOption": 0,
+      "points": 1
+    },
+    {
+      "question": "For a Computer Science paper on applied research, the body structure typically includes:",
+      "options": [
+        "Basic definitions and theorems only",
+        "Architecture of a new system, description, and evaluation",
+        "A philosophical debate",
+        "A biography of the computer inventor"
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "The 'Conclusion' section should:",
+      "options": [
+        "Introduce new problems not mentioned before",
+        "Repeat the abstract exactly",
+        "Summarize the contribution and outline future directions",
+        "Be left blank"
+      ],
+      "correctOption": 2,
+      "points": 1
+    },
+    {
+      "question": "Who should be thanked in the Acknowledgements?",
+      "options": [
+        "The authors themselves",
+        "External funding sources and non-authors who made significant contributions",
+        "People who did not read the paper",
+        "Competitors"
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "What does 'Top down Design' mean in the context of writing hints?",
+      "options": [
+        "Writing the abstract first",
+        "Starting with an outline, then filling in the details",
+        "Writing the conclusion first",
+        "Writing from the bottom of the page up"
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "What is 'Inside out writing'?",
+      "options": [
+        "Writing the body first, then introduction/conclusion, and finally the abstract",
+        "Writing the paper in a foreign language first",
+        "Writing the abstract, then the introduction, then the body",
+        "Writing the references first"
+      ],
+      "correctOption": 0,
+      "points": 1
+    },
+    {
+      "question": "When checking for 'Interpretability', you should:",
+      "options": [
+        "Make sentences complex so they are hard to understand",
+        "Check whether each sentence could be misread and correct it if necessary",
+        "Use as many font colors as possible",
+        "Remove all diagrams"
+      ],
+      "correctOption": 1,
+      "points": 1
     }
   ]
 }
