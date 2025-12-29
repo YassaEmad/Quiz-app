@@ -12,6 +12,7 @@ function StartScreen({ dispatch }) {
     { value: "db1", label: "CH (11,12) GEMINI" },
     { value: "db2", label: "CH (11,12) CHATGPT" },
     { value: "db3", label: "CH (11,12) NOTEBOOK LM" },
+    { value: "db4", label: "NOTEBOOK LM EXAM" },
   ];
 
   useEffect(() => {
