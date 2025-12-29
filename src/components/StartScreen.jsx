@@ -11,6 +11,7 @@ function StartScreen({ dispatch }) {
   const options = [
     { value: "db1", label: "CH (11,12) GEMINI" },
     { value: "db2", label: "CH (11,12) CHATGPT" },
+    { value: "db3", label: "CH (11,12) NOTEBOOK LM" },
   ];
 
   useEffect(() => {
