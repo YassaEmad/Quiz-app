@@ -309,4 +309,26 @@
       "points": 1
     },
     {
-      "question": "Wh
+      "question": "Which item belongs to Materials & Methods?",
+      "options": [
+        "Abstract",
+        "Sample size and instrumentation",
+        "Conclusion",
+        "References"
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "A thesis is successful if it:",
+      "options": [
+        "Is very long",
+        "Uses complex language",
+        "Makes an original contribution",
+        "Has many tables"
+      ],
+      "correctOption": 2,
+      "points": 1
+    }
+  ]
+}
