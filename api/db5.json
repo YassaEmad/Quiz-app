@@ -1,0 +1,640 @@
+{
+  "questions": [
+    {
+      "question": "The primary function of the resume is to serve as:",
+      "options": [
+        "The official legal record of employment",
+        "A marketing tool to obtain an interview",
+        "A guarantee of obtaining the desired job",
+        "A comprehensive biography of the applicant"
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "The initial amount of time an employer takes to review an applicant’s resume is typically:",
+      "options": [
+        "Exactly 60 seconds",
+        "15–20 seconds minimum; 45 seconds maximum",
+        "Several minutes if the applicant is highly qualified",
+        "Only enough time to check for abbreviations"
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "All of the following information should be included in the Header section of a resume EXCEPT:",
+      "options": [
+        "Permanent and present address",
+        "E-mail address",
+        "Telephone number",
+        "Social Security Number (SSN)"
+      ],
+      "correctOption": 3,
+      "points": 1
+    },
+    {
+      "question": "If a student's calculated GPA is 3.062, the advice given for presenting this GPA on a resume is to:",
+      "options": [
+        "Round up to 3.1",
+        "Use the precise figure 3.062",
+        "Round down to the nearest tenth (3.0)",
+        "Only include it if it is 4.0"
+      ],
+      "correctOption": 2,
+      "points": 1
+    },
+    {
+      "question": "When describing responsibilities for a past job that the applicant is no longer employed at, the responsibilities section should use:",
+      "options": [
+        "Present tense",
+        "Past tense",
+        "Future tense",
+        "Passive voice"
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "Which of the following is considered a Resume 'Don't'?",
+      "options": [
+        "Using action verbs",
+        "Keeping the resume easy to read",
+        "Including personal pronouns such as I, me, or my",
+        "Keeping the resume about one page long"
+      ],
+      "correctOption": 2,
+      "points": 1
+    },
+    {
+      "question": "The goal of technical writing, first and foremost, is to:",
+      "options": [
+        "Employ rich imagery or powerful metaphors",
+        "Be creative and interesting",
+        "Communicate complex information clearly and precisely",
+        "Be emotional and imaginative"
+      ],
+      "correctOption": 2,
+      "points": 1
+    },
+    {
+      "question": "Technical writing is considered a fundamental skill for anyone working in science and engineering because it is necessary for documents like progress reports, proposals, CVs, and graduation projects.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctOption": 0,
+      "points": 1
+    },
+    {
+      "question": "According to the Ladder of Abstraction, as one moves up the ladder, the definition of a technical component becomes:",
+      "options": [
+        "More accurate and precise",
+        "More elegant in design",
+        "Less precise and increasingly vague",
+        "More factual and documented"
+      ],
+      "correctOption": 2,
+      "points": 1
+    },
+    {
+      "question": "A measure of how well a technical writer has written a document includes assessing both how well the reader understands the intended meaning AND how well that understanding fulfills the intended purpose or need at hand.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctOption": 0,
+      "points": 1
+    },
+    {
+      "question": "Technical writing relies heavily on visuals (pictures, graphs, tables, etc.) because they are used by the writer to:",
+      "options": [
+        "Increase the overall length",
+        "Clarify, explain, and support an idea",
+        "Make the document more enjoyable",
+        "Substitute for numerical data"
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "Which characteristic of technical writing dictates that conclusions and judgments must be based on evidence or established expertise, and supported by facts, laws, and references?",
+      "options": [
+        "Reliance on Visuals",
+        "Use of Numerical Data",
+        "Accuracy and Documentation",
+        "Grammatical Correctness"
+      ],
+      "correctOption": 2,
+      "points": 1
+    },
+    {
+      "question": "Ethics in technical writing involves a writer's moral duty and obligation to apply communication power to the purpose of doing worthy things.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctOption": 0,
+      "points": 1
+    },
+    {
+      "question": "A technical writer must not substitute speculation for facts, hide the truth with ambiguity, or inject personal bias into their report.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctOption": 0,
+      "points": 1
+    },
+    {
+      "question": "Which type of plagiarism occurs when a writer uses a previously published or submitted paper for a new project (e.g., submitting the same research paper for two courses) without permission?",
+      "options": [
+        "Poor paraphrasing",
+        "Lack of citation only",
+        "Self-plagiarism",
+        "Word-for-word plagiarism"
+      ],
+      "correctOption": 2,
+      "points": 1
+    },
+    {
+      "question": "If you paraphrase an author's ideas very well in your own words but fail to provide a citation, this is primarily categorized as:",
+      "options": [
+        "Word-for-word plagiarism",
+        "Lack of citation only",
+        "Redundant publication",
+        "Acceptable practice"
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "To correctly avoid plagiarism when using an author's exact words, the writer must show the original words in quotation marks and provide a citation.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctOption": 0,
+      "points": 1
+    },
+    {
+      "question": "If a digital image used in a technical report has been fundamentally changed (altered) to represent different information, the ethical requirement is to:",
+      "options": [
+        "Only use the original image",
+        "Acknowledge the alteration in the caption and briefly describe its nature",
+        "Use it without citation since you modified it",
+        "Avoid all visuals"
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "A document that is appealing, well-addressed to its audience, but is unethical, will still put the reader at a disadvantage by:",
+      "options": [
+        "Not allowing him/her to make the best decision",
+        "Requiring complex vocabulary",
+        "Lacking enough numerical data",
+        "Being too coherent"
+      ],
+      "correctOption": 0,
+      "points": 1
+    },
+    {
+      "question": "The ethical model for technical writers includes the principles of:",
+      "options": [
+        "Being imaginable and creative",
+        "Being brief and vague",
+        "Being factual, truthful, and objective",
+        "Avoiding acronyms"
+      ],
+      "correctOption": 2,
+      "points": 1
+    },
+    {
+      "question": "In the technical definition structure (Term = Classification + Differentiation), the role of the Classification is to:",
+      "options": [
+        "Narrow the meaning to one possibility",
+        "Place the term into a general category",
+        "Explain the theory behind the term",
+        "Provide real-world examples"
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "If the term being defined has more than one meaning (e.g., 'stall'), the writer should add a Qualifier (such as 'In driving...') to the definition statement to:",
+      "options": [
+        "Extend the definition",
+        "Define the Classification",
+        "Supply the necessary context",
+        "Introduce complex mathematics"
+      ],
+      "correctOption": 2,
+      "points": 1
+    },
+    {
+      "question": "Defining a 10kΩ resistor as an 'electrical device that impedes the flow of electric current' is problematic because the classification 'electrical device' is:",
+      "options": [
+        "Too specific",
+        "Too general",
+        "Always incorrect",
+        "Lacking differentiation"
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "When writing for a non-technical audience, a writer may need to sacrifice desired precision to communicate effectively, which is known as:",
+      "options": [
+        "Etymology",
+        "Differentiation",
+        "Required Imprecision",
+        "Abstract thinking"
+      ],
+      "correctOption": 2,
+      "points": 1
+    },
+    {
+      "question": "Which definition extension should be used if the writer needs to trace the linguistic history or origin of a term?",
+      "options": [
+        "Process",
+        "Exemplification",
+        "Comparison and Contrast",
+        "Etymology"
+      ],
+      "correctOption": 3,
+      "points": 1
+    },
+    {
+      "question": "Which definition extension should be used if the writer wants to organize related technical concepts into specific categories?",
+      "options": [
+        "Further Definition",
+        "Exemplification",
+        "Cause and Effect",
+        "Classification"
+      ],
+      "correctOption": 3,
+      "points": 1
+    },
+    {
+      "question": "If you define 'zeolite' as an 'exchange resin' but suspect your audience doesn't know what an 'exchange resin' is, you should use the Further Definition extension to clarify the nested term.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctOption": 0,
+      "points": 1
+    },
+    {
+      "question": "The use of an analogy like 'Zeolite collects calcium and magnesium ions in the same way a feather broom collects dust' is an example of which extension type?",
+      "options": [
+        "Exemplification",
+        "Process",
+        "Comparison and Contrast",
+        "Etymology"
+      ],
+      "correctOption": 2,
+      "points": 1
+    },
+    {
+      "question": "Differentiation is the part of the definition process that narrows the meaning of the term to just one possibility within the chosen general class.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctOption": 0,
+      "points": 1
+    },
+    {
+      "question": "Which extension type would be appropriate for explaining why a negatively charged element attracts positively charged ions?",
+      "options": [
+        "Process",
+        "Classification",
+        "Cause and Effect",
+        "Exemplification"
+      ],
+      "correctOption": 2,
+      "points": 1
+    },
+    {
+      "question": "Mechanism descriptions typically focus on an object in space and detail its:",
+      "options": [
+        "Iterative steps",
+        "Historical background",
+        "Physical characteristics (size, shape, material, texture)",
+        "Economic viability"
+      ],
+      "correctOption": 2,
+      "points": 1
+    },
+    {
+      "question": "Process descriptions are precise portrayals of events that occur:",
+      "options": [
+        "In a specific location",
+        "Over time and lead to some outcome",
+        "Only in mechanical systems",
+        "Outside of organizational context"
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "The general organizational structure for both Mechanism and Process descriptions includes Introduction, Discussion, and Conclusions.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctOption": 0,
+      "points": 1
+    },
+    {
+      "question": "When discussing the parts of a mechanism, ordering them spatially could involve arranging them:",
+      "options": [
+        "Alphabetically",
+        "By importance to the function",
+        "From left to right or inside out",
+        "By date of manufacture"
+      ],
+      "correctOption": 2,
+      "points": 1
+    },
+    {
+      "question": "The main difference in the use of visuals between mechanism and process descriptions is that process visuals usually need to show:",
+      "options": [
+        "Only static representations",
+        "Movement through space and time (e.g., with arrows)",
+        "Only diagrams, not photographs",
+        "Too little complexity"
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "In a Mechanism Description, the Introduction section must include a technical definition of the mechanism and an overall description of the mechanism's function or purpose.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctOption": 0,
+      "points": 1
+    },
+    {
+      "question": "When describing a conceptual process (like an algorithm), the Discussion section focuses primarily on:",
+      "options": [
+        "Describing the physical equipment used",
+        "Defining the step and describing its function or purpose",
+        "Listing materials required",
+        "Analyzing the financial costs"
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "When using compound numbering for visuals in a report (e.g., Fig. 3.2), the number '3' indicates the:",
+      "options": [
+        "Page number",
+        "Chapter number",
+        "Total number of figures",
+        "Sequence number of the visual"
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "What is the fundamental purpose of a proposal document?",
+      "options": [
+        "To prove expertise in a subject",
+        "To list technical resources",
+        "To offer persuasive solutions to problems and request support (usually money)",
+        "To criticize previous attempts to solve the problem"
+      ],
+      "correctOption": 2,
+      "points": 1
+    },
+    {
+      "question": "An assembly line worker sending a supervisor a letter suggesting a change to a manufacturing process is an example of a(n):",
+      "options": [
+        "Formal Proposal",
+        "Solicited Proposal",
+        "Unsolicited Proposal",
+        "Feasibility Report"
+      ],
+      "correctOption": 2,
+      "points": 1
+    },
+    {
+      "question": "A Solicited Proposal is one that:",
+      "options": [
+        "Has a high chance of being accepted",
+        "Is written by a team of experts",
+        "Responds to a specific request, where the problem has already been identified",
+        "Is written only when the recipient does not realize a problem exists"
+      ],
+      "correctOption": 2,
+      "points": 1
+    },
+    {
+      "question": "Formal proposals are often divided into five volumes. Which volume contains the detailed analysis and data regarding the financial requirements of the project?",
+      "options": [
+        "Technical volume",
+        "Management volume",
+        "Resource volume",
+        "Cost volume"
+      ],
+      "correctOption": 3,
+      "points": 1
+    },
+    {
+      "question": "In a Formal Proposal, the Management volume is where the writer describes:",
+      "options": [
+        "The engineering details of the solution",
+        "The total financial investment",
+        "The organizational structure and key players who will implement the proposal",
+        "The background theory"
+      ],
+      "correctOption": 2,
+      "points": 1
+    },
+    {
+      "question": "The Executive Summary is highly critical because it:",
+      "options": [
+        "Is typically written by the HR team",
+        "Is often the only part of the proposal that senior decision-makers read",
+        "Provides the final breakdown of resources",
+        "Is usually only one page long"
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "The Cover Letter or Transmittal Letter accompanying a proposal:",
+      "options": [
+        "Acts as a substitute for the title page",
+        "Is considered an essential part of the formal proposal's table of contents",
+        "Ensures the proposal is considered in the proper context and gets to the right person",
+        "Should contain the detailed background of the problem"
+      ],
+      "correctOption": 2,
+      "points": 1
+    },
+    {
+      "question": "In the Costs section of an Informal Proposal, it is specifically advised to avoid:",
+      "options": [
+        "Listing the time requirements",
+        "Listing financial costs",
+        "Only putting a single big final cost",
+        "Listing labor costs"
+      ],
+      "correctOption": 2,
+      "points": 1
+    },
+    {
+      "question": "Feasibility and Recommendation Reports are both objective documents that define a problem and evaluate solutions based on a set of criteria.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctOption": 0,
+      "points": 1
+    },
+    {
+      "question": "Which of the following describes the key difference in scope between Feasibility and Recommendation Reports?",
+      "options": [
+        "Feasibility reports use data; Recommendation reports use interpretations",
+        "Feasibility reports consider a single solution; Recommendation reports look at several approaches",
+        "Feasibility reports are biased; Recommendation reports are objective",
+        "Recommendation reports require an appendix; Feasibility reports do not"
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "Progress reports that mark movement toward a final goal on large projects are sometimes known as:",
+      "options": [
+        "Activity Reports",
+        "Status Reports",
+        "Milestone Reports",
+        "Resource Reports"
+      ],
+      "correctOption": 2,
+      "points": 1
+    },
+    {
+      "question": "When writing a Progress Report, the overall assessment section should include all of the following EXCEPT:",
+      "options": [
+        "An appraisal of the current status",
+        "A forecast for completing the project",
+        "A detailed description of the original problem only",
+        "An assessment of the progress made to date"
+      ],
+      "correctOption": 2,
+      "points": 1
+    },
+    {
+      "question": "When detailing tasks completed in a Progress Report, you must describe the things accomplished, the difficulties encountered, and:",
+      "options": [
+        "The plan for remaining tasks",
+        "The final cost of the project",
+        "How long it took to accomplish them",
+        "The original purpose of the report"
+      ],
+      "correctOption": 2,
+      "points": 1
+    },
+    {
+      "question": "In a standard Laboratory Report, the Materials and Procedure section must be written using:",
+      "options": [
+        "Bulleted steps",
+        "Paragraph style",
+        "First person (I or we)",
+        "Future tense"
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "The standard Lab Report structure includes Data, which consists of quantitative (numerical) data, qualitative (non-numerical) data, and drawings.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctOption": 0,
+      "points": 1
+    },
+    {
+      "question": "The Conclusion section of a Feasibility Report must review the data and interpretations, present conclusions based on that data, and:",
+      "options": [
+        "Re-evaluate the initial problem",
+        "Recommend or reject the proposed solution",
+        "Discuss future work not treated in the report",
+        "Define the evaluation criteria"
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "In the context of a Research Paper, the Abstract should typically be limited to:",
+      "options": [
+        "Not more than half a page",
+        "150 to 200 words",
+        "Exactly 50 words",
+        "As long as necessary to cover all results"
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "The recommended practice for writing a research paper is the 'Inside out writing' approach, which suggests that the writer should fill in the Body of the paper first, and write the Abstract last.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctOption": 0,
+      "points": 1
+    },
+    {
+      "question": "Which section of a research paper or thesis is located at the end of the Introduction and describes the contents of the body chapters?",
+      "options": [
+        "The Abstract",
+        "Related Work",
+        "Outline of the rest of the paper",
+        "Summary and future work"
+      ],
+      "correctOption": 2,
+      "points": 1
+    },
+    {
+      "question": "Which characteristic makes a thesis or dissertation 'Poor'?",
+      "options": [
+        "Novelty/Originality",
+        "Lack of coherence",
+        "Clear & specific objectives",
+        "Elegance of design"
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "According to the source, to be listed as an author on a paper, an individual must have:",
+      "options": [
+        "Only approved the final version",
+        "Only made a significant intellectual contribution",
+        "Only contributed to drafting or revising",
+        "Made a significant intellectual contribution, contributed to drafting/revising, and approved the final version"
+      ],
+      "correctOption": 3,
+      "points": 1
+    },
+    {
+      "question": "The primary purpose of the Literature Review chapter in a thesis is to:",
+      "options": [
+        "Describe the research findings",
+        "Detail the materials and methods used",
+        "Review relevant literature and identify gaps in current knowledge",
+        "Summarize the author's contact information"
+      ],
+      "correctOption": 2,
+      "points": 1
+    }
+  ]
+}
