@@ -9,8 +9,8 @@ function StartScreen({ dispatch }) {
   const dropdownRef = useRef(null);
 
   const options = [
-    { value: "db1", label: "exam1" },
-    { value: "db2", label: "exam2" },
+    { value: "db1", label: "CH (11,12) GEMINI" },
+    { value: "db2", label: "CH (11,12) CHATGPT" },
   ];
 
   useEffect(() => {
